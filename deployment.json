@@ -1,0 +1,8 @@
+{
+    "type": "wordclock2-base-firmware",
+    "version": 8,
+    "host": "wordclock2-doclaire.s3-website.us-east-2.amazonaws.com",
+    "port": 80,
+    "bin": "/wordclock2_firmware.ino.esp32.bin",
+    "check_signature": false
+}
